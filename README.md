@@ -1,2 +1,5 @@
 # portfolio
-My personal portfolio changes
+My personal portfolio changes again
+
+* commit code (local)
+* push code
